@@ -34,7 +34,7 @@ This project explores **Natural Language Processing (NLP)** by analyzing and clu
    ```
 3. Run the script:  
    ```sh
-   python clustering_got.py
+   nlp.ipynb
    ```
 
 ## **📌 Future Improvements**  
